@@ -18,4 +18,4 @@ Sample Output
 3
 5
 
-source : this is the code project of python core couce (functional programming part) in sololearn.com
+source : This was the code project while i learn python core cource from sololearn.com
